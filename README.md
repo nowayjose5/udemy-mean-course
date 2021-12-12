@@ -1,5 +1,7 @@
 # UdemyMeanCourse
 
+Code repo for [MEAN course](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) on udemy.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
 ## Development server
